@@ -57,11 +57,7 @@ To write a Python program that generates **Pascal's Triangle** using numbers. Th
 ---
 
 ## 🧪 Program
-```
-Name:Harisha S
-Reg No:212223040063
 
-```
 ```
 rows = int(input())
 coef = 1
